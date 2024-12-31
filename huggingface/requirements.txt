@@ -1,0 +1,9 @@
+tqdm
+huggingface_hub
+PIL
+json
+gradio
+torch
+torchvision
+gradio
+Pillow
