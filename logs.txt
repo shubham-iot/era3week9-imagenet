@@ -1,0 +1,44 @@
+Epoch 2/10: 100%|██████████████████████████████████████████████████████████████████████| 2503/2503 [1:37:18<00:00, 2.33s/it]
+/home/ubuntu/erav3-s9-resnet50-nn/src/train.py:146: FutureWarning: torch.cuda.amp.autocast(args...) is deprecated. Please use torch.amp.autocast('cuda', args...) instead.
+  with torch.cuda.amp.autocast():
+Train Loss: 3.5611, Train Accuracy: 27.05%
+Validation Loss: 3.2321, Validation Accuracy: 30.85%
+Checkpoint saved to checkpoint.pth
+File 'checkpoint.pth' successfully uploaded to 's3://imagenethouse/checkpoint-30-12-2024-11-24'.
+Epoch 3/10: 100%|████████████████████████████████████████████████████████████████████████| 2503/2503 [50:55<00:00, 1.22s/it]
+Train Loss: 2.9895, Train Accuracy: 36.21%
+Validation Loss: 2.7355, Validation Accuracy: 39.00%
+Checkpoint saved to checkpoint.pth
+File 'checkpoint.pth' successfully uploaded to 's3://imagenethouse/checkpoint-30-12-2024-11-24'.
+Epoch 4/10: 100%|████████████████████████████████████████████████████████████████████████| 2503/2503 [46:17<00:00, 1.11s/it]
+Train Loss: 2.6999, Train Accuracy: 41.24%
+Validation Loss: 2.4731, Validation Accuracy: 43.67%
+Checkpoint saved to checkpoint.pth
+File 'checkpoint.pth' successfully uploaded to 's3://imagenethouse/checkpoint-30-12-2024-11-24'.
+Epoch 5/10: 100%|██████████████████████████████████████████████████████████████████████| 2503/2503 [3:23:49<00:00, 4.89s/it]
+Train Loss: 2.5398, Train Accuracy: 44.10%
+Validation Loss: 2.2606, Validation Accuracy: 47.69%
+Checkpoint saved to checkpoint.pth
+File 'checkpoint.pth' successfully uploaded to 's3://imagenethouse/checkpoint-30-12-2024-11-24'.
+Epoch 6/10: 100%|████████████████████████████████████████████████████████████████████████| 2503/2503 [45:59<00:00, 1.10s/it]
+Train Loss: 2.4281, Train Accuracy: 46.20%
+Validation Loss: 2.1458, Validation Accuracy: 49.95%
+Checkpoint saved to checkpoint.pth
+File 'checkpoint.pth' successfully uploaded to 's3://imagenethouse/checkpoint-30-12-2024-11-24'.
+Epoch 7/10: 100%|████████████████████████████████████████████████████████████████████████| 2503/2503 [45:58<00:00, 1.10s/it]
+Train Loss: 2.3433, Train Accuracy: 47.77%
+Validation Loss: 2.0688, Validation Accuracy: 51.71%
+Checkpoint saved to checkpoint.pth
+File 'checkpoint.pth' successfully uploaded to 's3://imagenethouse/checkpoint-30-12-2024-11-24'.
+Epoch 8/10: 100%|████████████████████████████████████████████████████████████████████████| 2503/2503 [45:59<00:00, 1.10s/it]
+Train Loss: 2.2858, Train Accuracy: 48.88%
+Validation Loss: 2.1013, Validation Accuracy: 51.00%
+Checkpoint saved to checkpoint.pth
+File 'checkpoint.pth' successfully uploaded to 's3://imagenethouse/checkpoint-30-12-2024-11-24'.
+Epoch 9/10: 100%|████████████████████████████████████████████████████████████████████████| 2503/2503 [45:53<00:00, 1.10s/it]
+Train Loss: 2.2386, Train Accuracy: 49.70%
+Validation Loss: 2.0585, Validation Accuracy: 51.98%
+Checkpoint saved to checkpoint.pth
+File 'checkpoint.pth' successfully uploaded to 's3://imagenethouse/checkpoint-30-12-2024-11-24'.
+
+result/epoch20.jpg
